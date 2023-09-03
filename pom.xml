@@ -115,7 +115,7 @@
 			</plugin>
 			<plugin>
 
-				<groupId>org.sonarsource. scanner. Maven</groupId>
+				<groupId>org.sonarsource.scanner.Maven</groupId>
 
 				<artifactId>sonar-maven-plugin</artifactId>
 
